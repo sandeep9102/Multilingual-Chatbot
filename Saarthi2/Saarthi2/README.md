@@ -118,9 +118,7 @@ We welcome contributions! If you’d like to improve Saarthi:
 
 ---
 
-## **📞 Contact**
-📧 **Email**: princceekumar07@example.com  
-🔍 **GitHub**: [Princccee](https://github.com/Princccee/Saarthi2.git)  
+
 
 Let’s make AI chatbots smarter together! 🚀💬
 
